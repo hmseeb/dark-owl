@@ -1,5 +1,5 @@
 {
-  "name": "Dark Owl Pro",
+  "name": "Dark Owl (No Italics)",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -847,8 +847,8 @@
       }
     },
     {
-      "name": "markup ",
-      "scope": "markup., punctuation.definition.,todo.emphasis",
+      "name": "markup Italic",
+      "scope": "markup.italic, punctuation.definition.italic,todo.emphasis",
       "settings": {
         "foreground": "#c276ff"
       }
@@ -1727,7 +1727,6 @@
         "foreground": "#67beff"
       }
     },
-  
     {
       "name": "wikiword",
       "scope": [
@@ -1817,7 +1816,7 @@
       }
     },
     {
-      "name": "js/ts ",
+      "name": "js/ts italic",
       "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
       "settings": {
         "fontStyle": ""
@@ -1838,8 +1837,8 @@
       }
     },
     {
-      "name": "markup..markdown",
-      "scope": "markup..markdown",
+      "name": "markup.italic.markdown",
+      "scope": "markup.italic.markdown",
       "settings": {
         "fontStyle": ""
       }
@@ -1868,14 +1867,14 @@
     "list.inactiveSelectionForeground": "#ffffff",
     "list.hoverBackground": "#011627",
     "list.hoverForeground": "#e8e8e8",
-    "list.activeSelectionBackground": "#094771",
+    "list.activeSelectionBackground": "#0b2942",
     "list.activeSelectionForeground": "#ffffff",
     "tree.indentGuidesStroke": "#585858",
-    "list.dropBackground": "#21263d",
+    "list.dropBackground": "#011627",
     "list.highlightForeground": "#ffffff",
-    "list.focusBackground": "#181b28",
+    "list.focusBackground": "#0b2942",
     "list.focusForeground": "#cccccc",
-    "listFilterWidget.background": "#2e375c",
+    "listFilterWidget.background": "#0b2942",
     "listFilterWidget.outline": "#ffffff00",
     "listFilterWidget.noMatchesOutline": "#be1100",
     "statusBar.foreground": "#ffffff",
@@ -2009,7 +2008,7 @@
     "tab.activeBorderTop": "#ffffff00",
     "tab.inactiveBackground": "#01111d",
     "tab.inactiveForeground": "#5f7e97",
-    "tab.hoverBackground": "#282121",
+    "tab.hoverBackground": "#01111d00",
     "tab.hoverForeground": "#ffffff",
     "tab.hoverBorder": "#ffffff00",
     "scrollbarSlider.background": "#084d8180",
@@ -2053,8 +2052,8 @@
     "merge.incomingContentBackground": "#28384B",
     "merge.commonHeaderBackground": "#383838",
     "merge.commonContentBackground": "#282828",
-    "editorSuggestWidget.background": "#181b28",
-    "editorSuggestWidget.border": "#232943",
+    "editorSuggestWidget.background": "#242a43",
+    "editorSuggestWidget.border": "#242a43",
     "editorSuggestWidget.foreground": "#eaeaea",
     "editorSuggestWidget.highlightForeground": "#007cff",
     "editorSuggestWidget.selectedBackground": "#242a43",
@@ -2062,17 +2061,17 @@
     "editorHoverWidget.background": "#181b28",
     "editorHoverWidget.border": "#2a314d",
     "peekView.border": "#007acc",
-    "peekViewEditor.background": "#001f33",
-    "peekViewEditorGutter.background": "#001f33",
+    "peekViewEditor.background": "#011627",
+    "peekViewEditorGutter.background": "#011627",
     "peekViewEditor.matchHighlightBackground": "#ff8f0099",
     "peekViewEditor.matchHighlightBorder": "#ee931e",
-    "peekViewResult.background": "#252526",
+    "peekViewResult.background": "#011627",
     "peekViewResult.fileForeground": "#ffffff",
     "peekViewResult.lineForeground": "#bbbbbb",
     "peekViewResult.matchHighlightBackground": "#ea5c004d",
     "peekViewResult.selectionBackground": "#3399ff33",
     "peekViewResult.selectionForeground": "#ffffff",
-    "peekViewTitle.background": "#1e1e1e",
+    "peekViewTitle.background": "#011627",
     "peekViewTitleDescription.foreground": "#ccccccb3",
     "peekViewTitleLabel.foreground": "#ffffff",
     "icon.foreground": "#ffffff",
@@ -2090,7 +2089,7 @@
     "minimap.errorHighlight": "#ff512e",
     "minimap.warningHighlight": "#ffd100",
     "minimap.background": "#011627",
-    "sideBar.dropBackground": "#21263d",
+    "sideBar.dropBackground": "#011627",
     "editorGroup.emptyBackground": "#011627",
     "panelSection.border": "#ffffff59",
     "statusBarItem.activeBackground": "#FFFFFF25",
