@@ -1,6 +1,6 @@
 # Dark Owl
 
-![Your VSCode Theme Logo]((https://github.com/hmseeb/dark-owl/assets/74695355/fe7fa706-f1cb-4d1d-b5fd-dca2db5f3629))
+![Your VSCode Theme Logo](https://github.com/hmseeb/dark-owl/assets/74695355/710ec877-3aaa-497e-afeb-da199446f2dd)
 
 ## Description
 
