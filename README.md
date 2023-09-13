@@ -26,9 +26,10 @@ To use this theme in Visual Studio Code, follow these steps:
 Once the theme is installed, follow these steps to activate it:
 
 1. Click on the gear icon (⚙️) in the lower-left corner of the VSCode window.
-2. Click on themes.
-3. Select Dark Owl from the dropdown menu.
-4. Choose any theme from the list of available themes.
+2. Select Themes button.
+3. Choose Color Theme.
+4. Search Dark Owl.
+5. Choose any theme from the list of available themes.
 
 ## Customization
 
