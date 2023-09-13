@@ -1,9 +1,5 @@
 # Dark Owl
 
-![Your VSCode Theme Logo](https://github.com/hmseeb/dark-owl/assets/74695355/710ec877-3aaa-497e-afeb-da199446f2dd)
-
-## Description
-
 Dark Owl is a beautifully crafted theme designed to enhance your coding experience in Visual Studio Code. With a focus on code readability and eye comfort, this theme offers a delightful blend of colors and styles that make your code visually appealing and easy to work with.
 
 ## Screenshots
